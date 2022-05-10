@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #f8fa7f;
+}
+
+#galeri {
+    background-color: #f8fa7f;
+}
+
+.bg-pri {
+    background-color: #f8fa7f;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.textjudul {
+    font-family: "poppins", sans-serif;
+    color: black;
+    font-weight: 700;
+}
+
+.textform1 {
+    font-family: "poppins", sans-serif;
+    font-size: 16px;
+}
+
+.textform2 {
+    font-family: "poppins", sans-serif;
+    font-size: 14px;
+}
+
+.textform3 {
+    font-family: "poppins", sans-serif;
+}
